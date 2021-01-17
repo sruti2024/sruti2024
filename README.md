@@ -1,13 +1,13 @@
-### <h2 align="center">Hi, Sruti this side👋</h2>
+### <h2 align="center">Hi, Sruti this side<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
 
-I am an Engineering Student, PHP developer and startup enthusiast. I love experimenting with new technologies and building small projects. 
+I am an Engineering Student, PHP developer and startup enthusiast. I love experimenting with new technologies and building small projects.<br>
 <br>
 - 🔭 I’m currently working on self-enhancement.
 - 🌱 I’m currently learning DJango.
 - ⚡ Fun fact : SHM has a different meaning to me!
-
+ 
 <br>
 <p align="center">
 <img alt="My Github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=sruti2024&show_icons=true&theme=gruvbox&show_icons=true&count_private=true">
