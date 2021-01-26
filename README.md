@@ -7,13 +7,14 @@ I am an Engineering Student, PHP developer and startup enthusiast. I love experi
 - 🔭 I’m currently working on self-enhancement.
 - 🌱 I’m currently learning DJango.
 - ⚡ Fun fact : SHM has a different meaning to me!
- 
+-  <img src="https://metrics.lecoq.io/sruti2024?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&config.timezone=Asia%2FCalcutta&config.animated=true" alt="" width="300">
 <br>
 <p align="center">
 <img alt="My Github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=sruti2024&show_icons=true&theme=gruvbox&show_icons=true&count_private=true">
   </p>
 <br>
 <hr>
+
 <p align="center">
   <i>Programming Languages &nbsp&nbsp&nbsp || &nbsp&nbsp&nbsp Tools || &nbsp&nbsp&nbsp Packages</i>
 <p align="center">
@@ -36,7 +37,7 @@ I am an Engineering Student, PHP developer and startup enthusiast. I love experi
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C++" width="25px" height="25px"></a>
 
 </p>
-  
+  <br>
 </p>
 <hr>
 
